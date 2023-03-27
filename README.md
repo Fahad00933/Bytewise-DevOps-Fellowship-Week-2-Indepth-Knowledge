@@ -17,7 +17,7 @@ XP has several practices that are designed to help teams work together more effe
 
 XP is a flexible framework that can be adapted to fit the needs of different teams and projects. It is particularly well-suited for projects that require rapid development and frequent feedback from customers.
 
-#Pair Programming and its Benifits
+# Pair Programming and its Benifits
 
 Pair programming is a practice in which two programmers work together on a single computer to write code, review each other's work, and collaborate on problem-solving. Pair programming has several benefits:
 
